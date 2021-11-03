@@ -1,0 +1,17 @@
+h1 {
+  background-color: rgb(43, 39, 104);
+  color: white;
+  overflow: hidden;
+}
+a {
+  
+  color: rgb(43, 39, 104));
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 15px;
+}
+a:hover {
+  background-color: #ddd;
+  color: black;
+}

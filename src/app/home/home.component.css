@@ -1,0 +1,13 @@
+h2 {
+  background-color: rgb(43, 39, 104);
+  color: white;
+  overflow: hidden;
+  font-size: medium;
+  text-align: center;
+}
+p {
+  text-align: center;
+}
+button {
+  align-items: center;
+}
